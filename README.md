@@ -11,6 +11,7 @@
 * [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
 * [9. Para considerar Project Feedback](#9-para-considerar-project-feedback)
+* [Recursos que me sirvieron para el proyecto](#Recursos-que-me-sirvieron-para-el-proyecto:)
 
 ***
 
@@ -458,3 +459,14 @@ Project Feedback:
 * [ ] El proyecto será entregado subiendo tu código a GitHub.
 * [ ] La interfaz será "desplegada" usando GitHub Pages.
 * [ ] El README contiene una definición del producto.
+
+***
+
+## Recursos que me sirvieron para el proyecto:
+
+Fuentes de información:
+* https://code.tutsplus.com/es/tutorials/catching-and-responding-to-keyboard-events-in-javascript--cms-37525
+* https://es.stackoverflow.com/questions/66907/comparar-elementos-de-un-arreglo
+* https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event
+* https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions
+* https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault

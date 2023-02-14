@@ -1,0 +1,85 @@
+body {
+    background-color: #efefef;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MainSection {
+    background-color: blue;
+    width: 100px;
+    display: inline;
+    overflow: hidden;
+}
+
+.CardConteiner {
+    background-color: white;
+    width: 35%;
+    height: auto;
+    float:left;
+    padding: 2%;
+    margin: 2%;
+    box-shadow: 1px 1px 6px rgba(0,0,0,.161);
+}
+
+label {
+    color: darkslategray;
+    font-weight: bold;
+    display: block;
+    margin-left: 3%;
+}
+
+input {
+    padding: 2%;
+    margin-left: 3%; 
+    background-color: #efefef;
+    border-radius: 8px;   
+    box-shadow: inset 1px 1px 6px rgba(0,0,0,.161);
+    outline: none;
+    border: none;
+}
+
+button {
+    padding: 10px;
+    margin-left: 3%;
+    margin-top: 3%;
+    color: whitesmoke;
+    font-weight: bold;
+    background: linear-gradient(95.64deg,#1c3d9f 0%,#3096cb 100.33%);
+    border-radius: 8px;
+    border-style: hidden;
+    display: block;
+}
+
+button:focus {
+    color: lightgray;
+}
+
+button:hover {
+    box-shadow: 3px 3px 5px grey;
+}
+
+#parrafo {
+    padding: 5px;
+    margin-left: 3%;
+    margin-top: 3%;
+    font-weight: bolder;
+    font-size:larger;
+}
+
+h1 {
+    color:#efefef;
+    text-align: center;
+    margin: 0%;
+    padding: 1%;
+}
+
+header {
+    background: linear-gradient(95.64deg,#18358d 0%,#3096cb 100.33%);
+    
+}
+
+footer {
+    position: relative;
+}

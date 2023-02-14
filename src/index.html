@@ -6,9 +6,31 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <header>
+      <h1>Validar Tarjeta de Crédito</h1>
+    </header>
+    <main>
+      <section class="MainSection">
+        <div class="CardConteiner" id="showForm">
+          <form action="" class="Form_validation" method="post">
+            <label for="creditNumber">Ingresar número de tarjeta:</label>
+            <input type="text" id="creditNumber" placeholder="Número de tarjeta..." required="required"/>
+            <button type="submit" id="btn_validation" value="Validar">Validar</button>
+          </form>
+        </div>
+
+        <div class="CardConteiner" id="ShowCard">
+          <h2>Infomación de Tarjeta:</h2>
+          <p id="parrafo"></p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      - Proyecto Laboratoria -
+        <br>
+      - Kristen Irazú -
+    </footer>
     <script src="index.js" type="module"></script>
   </body>
 </html>

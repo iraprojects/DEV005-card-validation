@@ -14,7 +14,7 @@
 * [10. Recursos que me sirvieron para el proyecto](#10-Recursos-que-me-sirvieron-para-el-proyecto)
 
 ***
-- [ ] **Guía del proyecto**
+  <details><summary>Links</summary><p>
 
   ## 1. Preámbulo
 

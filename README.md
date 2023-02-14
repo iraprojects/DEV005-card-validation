@@ -11,7 +11,7 @@
 * [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
 * [9. Para considerar Project Feedback](#9-para-considerar-project-feedback)
-* [10. Recursos que me sirvieron para el proyecto](#Recursos-que-me-sirvieron-para-el-proyecto:)
+* [10. Recursos que me sirvieron para el proyecto](#10-Recursos-que-me-sirvieron-para-el-proyecto)
 
 ***
 
@@ -462,7 +462,7 @@ Project Feedback:
 
 ***
 
-## 10. Recursos que me sirvieron para el proyecto:
+## 10. Recursos que me sirvieron para el proyecto
 
 Fuentes de información:
 * https://code.tutsplus.com/es/tutorials/catching-and-responding-to-keyboard-events-in-javascript--cms-37525

@@ -20,7 +20,7 @@ body {
     float:left;
     padding: 2%;
     margin: 2%;
-    box-shadow: 1px 1px 6px rgba(0,0,0,.161);
+    box-shadow: 1px 1px 6px rgba(0,0,0,.161); /* vertical, horizontal, blur */
 }
 
 label {

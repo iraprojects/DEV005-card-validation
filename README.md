@@ -470,3 +470,5 @@ Fuentes de información:
 * https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event
 * https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions
 * https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
+* https://gamedevtraum.com/es/programacion-informatica/algoritmos/como-saber-si-un-numero-es-par-o-impar-en-programacion/
+* https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split

@@ -472,3 +472,5 @@ Fuentes de información:
 * https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
 * https://gamedevtraum.com/es/programacion-informatica/algoritmos/como-saber-si-un-numero-es-par-o-impar-en-programacion/
 * https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split
+* https://developer.mozilla.org/es/docs/Web/CSS/position
+* https://www.delftstack.com/es/howto/javascript/change-css-property-using-javascript/

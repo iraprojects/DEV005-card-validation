@@ -1,0 +1,24 @@
+https://stevemorse.org/ssn/cc.html
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find#find_a_prime_number_in_an_array
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+4	Visa
+
+1800	JCB
+2014	Diner's Club / enRoute
+2131	JCB
+2149	Diner's Club / enRoute
+6011	Discover
+
+slice(0,-1)
+300 to 305	Diner's Club / Carte Blanche
+
+slice(0,-2)
+34	American Express
+36	Diner's Club / International
+37	American Express
+38	Diner's Club / Carte Blanche
+51 to 55	MasterCard
+
+3 (all others)	JCB
+

@@ -1,26 +1,37 @@
-body {
-    background-color: #efefef;
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
+* {
     box-sizing: border-box;
 }
 
+body {
+    background-color: #efefef;
+    margin: 0;
+    padding: 0;
+}
+
 .MainSection {
-    background-color: blue;
-    width: 100px;
-    display: inline;
+    /* background-color: blue; */
+    /* width: 100px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
 }
 
 .CardConteiner {
     background-color: white;
     width: 35%;
-    height: auto;
+    height: 35%;
     float:left;
     padding: 2%;
     margin: 2%;
-    box-shadow: 1px 1px 6px rgba(0,0,0,.161); /* vertical, horizontal, blur */
+    box-shadow: 7px 7px 10px rgba(0,0,0,.161); /* vertical, horizontal, blur */
+}
+
+#showCard {
+    display: none;
+    padding: 0%;
+    /* background: linear-gradient(90deg, #335db5 0%, #00ff88 100%);
+    background: linear-gradient(90deg, #335db5 16%, #b5334a 100%); */
 }
 
 label {
@@ -60,12 +71,35 @@ button:hover {
     box-shadow: 3px 3px 5px grey;
 }
 
-#parrafo {
-    padding: 5px;
+p {
     margin-left: 3%;
     margin-top: 3%;
     font-weight: bolder;
     font-size:larger;
+}
+
+#p_number-valid{
+    padding: 1%;
+    margin: 0%;
+    padding-left: 5%;
+    position: relative;
+    bottom: 0;
+    font-weight: bold;
+    font-size: larger;
+    color: #efefef;
+    box-shadow: 0px -5px 12px rgba(0,0,0,.301);
+}
+
+#p_credit-number {
+    padding: 0% 5% 5%;
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: xx-large;
+    color: #f7f7f7;
+}
+
+img {
+    padding: 5% 0% 0% 5%;
 }
 
 h1 {
@@ -81,5 +115,18 @@ header {
 }
 
 footer {
-    position: relative;
+    background-color: #18358d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+
+#credits {
+    padding: 1%;
+    margin: 0%;
+    color:rgb(200, 200, 200);
+    font-weight: lighter;
+    font-size: medium;
 }

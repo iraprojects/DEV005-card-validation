@@ -50,9 +50,9 @@ const validator = {
     }
     return creditNumberMaskify;
   },
-  
+  /*
   showBank: function (creditNumber) {
-    /*
+    
     const inventory = [
     { name: "JCB", quantity: 1800 },
     { name: "Diner's Club", quantity: 2014 },
@@ -76,7 +76,7 @@ const validator = {
     }else{
       console.log(result.name)
     }
-    */
-  },
+    
+  },*/
 };
 export default validator;

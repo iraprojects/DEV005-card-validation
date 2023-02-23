@@ -47,6 +47,3 @@ document.addEventListener('DOMContentLoaded', function () {
     //console.log(test);
   });
 });
-
-//console.log(validator.maskify(creditNumber.value));
-//console.log(creditNumber.value);

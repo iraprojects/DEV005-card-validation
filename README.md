@@ -474,3 +474,4 @@ Fuentes de información:
 * https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split
 * https://developer.mozilla.org/es/docs/Web/CSS/position
 * https://www.delftstack.com/es/howto/javascript/change-css-property-using-javascript/
+* https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split

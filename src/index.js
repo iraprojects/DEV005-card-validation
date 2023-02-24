@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     p_numberValid.innerHTML = '';
     p_emptyInput.innerHTML = '';
     showCard.style.display = 'none';
-    if (creditNumber.value === '') {
+    if (creditNumber.value === '' || creditNumber.value === ' ') {
       p_emptyInput.innerHTML = 'Please, enter a card number';
     } else {
       showCard.style.display = 'block';

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tarjeta de crédito válida</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Credit Card Validator</h1>
+    </header>
+    <main>
+      <section class="MainSection"> <!--Mejor practica id = credit-Number-->
+        <div class="CardConteiner" id="showForm">
+          <form action="" class="Form_validation" method="post">
+            <label for="creditNumber">Enter card number:</label>
+            <input type="text" id="creditNumber" required="required"/>
+            <p id="p_emptyInput"></p>
+            <button type="button" id="btn_validation" value="Validate">Validate</button>
+          </form>
+        </div>
+
+        <div class="CardConteiner" id="showCard">
+          <img src="img/chip.png" alt="icono de un chip">
+          <p id="p_credit-number"></p>
+          <p id="p_number-valid"></p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p id="credits"> Irazú Mendoza © Laboratoria</p>
+    </footer>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>

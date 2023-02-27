@@ -45,7 +45,6 @@ function showIsValid(ccvalue) {
 }
 
 //Evento botón que manda a llamar otras funciones
-
 btn_validation.addEventListener("click", () => {
   creditNumberValue = creditNumber.value.trim();
   if (!isEmpty(creditNumberValue)) {

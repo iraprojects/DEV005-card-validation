@@ -1,9 +1,9 @@
 const validator = {
   isValid: function (creditNumber) {
-    let creditNumberInvert = "";
-    let creditNumberFinal = "";
+    let creditNumberInvert = '';
+    let creditNumberFinal = '';
     let totalSum = 0;
-    let stringConvert = "";
+    let stringConvert = '';
     let multiple = 0;
     for (let i = creditNumber.length - 1; i >= 0; i--) {
       creditNumberInvert += creditNumber[i];
@@ -33,10 +33,10 @@ const validator = {
   },
 
   maskify: function (creditNumber) {
-    let creditNumberMaskify = "";
+    let creditNumberMaskify = '';
     for (let i = 0; i < creditNumber.length; i++) {
       if (i < creditNumber.length - 4) {
-        creditNumberMaskify += "#";
+        creditNumberMaskify += '#';
       } else {
         creditNumberMaskify += creditNumber[i];
       }

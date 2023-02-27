@@ -9,8 +9,6 @@ body {
 }
 
 .MainSection {
-    /* background-color: blue; */
-    /* width: 100px; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,11 +25,9 @@ body {
     box-shadow: 7px 7px 10px rgba(0,0,0,.161); /* vertical, horizontal, blur */
 }
 
-#showCard {
+#show-Card {
     display: none;
     padding: 0%;
-    /* background: linear-gradient(90deg, #335db5 0%, #00ff88 100%);
-    background: linear-gradient(90deg, #335db5 16%, #b5334a 100%); */
 }
 
 label {

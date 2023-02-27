@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
+    <title>Credit Card Validator</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -11,16 +11,16 @@
     </header>
     <main>
       <section class="MainSection"> <!--Mejor practica id = credit-Number-->
-        <div class="CardConteiner" id="showForm">
+        <div class="CardConteiner" id="show-Form">
           <form action="" class="Form_validation" method="post">
-            <label for="creditNumber">Enter card number:</label>
-            <input type="text" id="creditNumber" required="required"/>
+            <label for="credit-Number">Enter card number:</label>
+            <input type="text" id="credit-Number" placeholder="79927398713" required="required"/>
             <p id="p_emptyInput"></p>
-            <button type="button" id="btn_validation" value="Validate">Validate</button>
+            <button type="button" id="btn-validation" value="Validate">Validate</button>
           </form>
         </div>
 
-        <div class="CardConteiner" id="showCard">
+        <div class="CardConteiner" id="show-Card">
           <img src="img/chip.png" alt="icono de un chip">
           <p id="p_credit-number"></p>
           <p id="p_number-valid"></p>

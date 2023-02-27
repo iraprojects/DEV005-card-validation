@@ -10,12 +10,12 @@
 ***
   ## 1. Sobre el proyecto
 
-  La idea de este sitio web es que cualquier persona que lo necesite 
-  pueda validar una tarjeta de credito de forma rapida y sencilla.
+  La idea de este sitio web es que cualquier persona que lo necesite
+  pueda validar una tarjeta de crédito de forma rápida y sencilla.
 
-  Para la pagina se penso en un diseño claro, moderno y minimalista, 
-  con colores azules que usualmente son utilizados en campos de tecnologias 
-  y finanzas, ademas de que se le suele asociar con estados de confianza y seguridad.
+  Para la página se pensó en un diseño claro, moderno y minimalista,
+  con colores azules que usualmente son utilizados en campos de tecnologías
+  y finanzas, además de que se le suele asociar con estados de confianza y seguridad.
 
   ### Los objetivos generales de este proyecto son los siguientes
 
@@ -37,9 +37,9 @@
 ***
 
   ## 3. Pasos para validar tarjeta de credito:
-  1. Ingresar numero de tarjeta a validar. 
-  2. Dar click en el boton 'Validate'.
-  3. Tanto si la tarjeta es valida como si no lo es, se mostrara un mensaje con la informacion correspondiente.
+  1. Ingresar número de tarjeta a validar. 
+  2. Dar click en el botón 'Validate'.
+  3. Tanto si la tarjeta es valida como si no lo es, se mostrará un mensaje con la información correspondiente.
 
 ***
 
